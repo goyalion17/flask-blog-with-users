@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Database (contains local/user data, recreated automatically on first run)
+instance/
+
+# macOS
+.DS_Store
